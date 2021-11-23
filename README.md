@@ -8,6 +8,7 @@ I'll be testing things like liks, backlinks and more.
 > - [ ] Test lInks
 > 	- [ ] How does [[Wiki Links]] behave on GitHub
 > 	- [ ] How does [MD liks](<./MD Links.md>) behave in Obsidian
+> 	- [ ] [[Moving and Renaming]] linked files
 > 	- [ ] Converting links?
 > - [ ] Back links
 > 	- [ ] How does Obsidian handle this

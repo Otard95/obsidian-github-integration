@@ -5,3 +5,5 @@ Markdown links are not quite as simple as [Wiki Links](<Wiki Links.md>), but the
 ## Quirc?
 
 Now it seems Obsidian requires the link to be wrapped in `<` `>` when the link includes spaces. Which I'm not sure is Markdown standard, so I'll need to test that on GitHub.
+
+No GitHub handles this just fine!
