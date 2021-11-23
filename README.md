@@ -6,7 +6,7 @@ I'll be testing things like liks, backlinks and more.
 ## TODO
 
 > - [ ] Test lInks
-> 	- [ ] How does [[Wiki links]] behave on GitHub
+> 	- [ ] How does [[Wiki Links]] behave on GitHub
 > 	- [ ] How does [MD liks](<./MD Links.md>) behave in Obsidian
 > 	- [ ] Converting links?
 > - [ ] Back links

@@ -1,6 +1,6 @@
 # MD Links
 
-Markdown links are not quite as simple as [Wiki Links](<./Wiki Links.md>), but they are far from complex, with the syntax `[<Link text>](<link relative path>)`.
+Markdown links are not quite as simple as [Wiki Links](<Wiki Links.md>), but they are far from complex, with the syntax `[<Link text>](<link relative path>)`.
 
 ## Quirc?
 
