@@ -5,11 +5,9 @@ I'll be testing things like liks, backlinks and more.
 
 ## TODO
 
-> - [ ] Test lInks
-> 	- [ ] How does [[Wiki Links]] behave on GitHub
-> 	- [ ] How does [MD liks](<./MD Links.md>) behave in Obsidian
-> 	- [ ] [[Moving and Renaming]] linked files
-> 	- [ ] Converting links?
-> - [ ] Back links
-> 	- [ ] How does Obsidian handle this
-> 	- [ ] How can this be done on GitHub
+> - [x] Test lInks
+> 	- [x] How does [[Wiki Links]] behave on GitHub
+> 	- [x] How does [MD liks](./MD%20Links.md) behave in Obsidian
+> 	- [x] [[Moving and Renaming]] linked files
+> 	- [x] [[Converting links]]
+> - [x] [[Back links]]
